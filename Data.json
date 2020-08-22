@@ -4,6 +4,7 @@
         "baaghi":{
             "name":"bhaagi3",
             "yearofrelease":"2019",
+         
             "cast":"shraddha & tigershroff",
             "category":"action",
           "language":"hindi"
@@ -20,7 +21,6 @@
              "yearofrelease":"2019",
              "category":"crimethriller",
           "language":"hindi"
-             
          },
          "chernobyl":{
              "name":"chernobyl",
@@ -119,13 +119,13 @@
             "language":"hindi"
         }   ,    
         "bahubali":{
-            "title":"bahubali,thebegining",
+            "title":"bahubali1",
             "yearofrelease":"2016",
             "category":"pre-historical drama",
             "language":"telugu"
         },
         "bahubali2":{
-            "title":"bahubali,theconclusion",
+            "title":"bahubali2",
             "yearofrelease":"2018",
             "category":"pre-historical drama",
             "language":"telugu"
