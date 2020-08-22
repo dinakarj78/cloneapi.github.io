@@ -6,33 +6,33 @@
             "yearofrelease":"2019",
             "cast":"shraddha & tigershroff",
             "category":"action",
-            "imageurl":"https://github.com/dinakarj78/cloneapi.github.io/blob/master/baaghi3.jpeg?raw=true"
+          "language":"hindi"
 
         },
          "gameofthrones":{
                "name":"GAMEOFTHRONES",
                "yearofrelease":"2011",
                "category":"fantasy,adventure",
-            "imageurl":"2"
+          "language":"english"
          },
          "specialops":{
              "name":"specialops",
              "yearofrelease":"2019",
              "category":"crimethriller",
-            "imageurl":"2"
+          "language":"hindi"
              
          },
          "chernobyl":{
              "name":"chernobyl",
              "yearoferelease":"2017",
              "category":"tragedy",
-             "imageurl":"2"
+          "language":"english"
          },
          "thewalkingdead":{
              "name":"walkingdead",
              "yearofrelease":"2010",
              "category":"zombiehorror",
-             "imageurl":"2"
+          "language":"english"
          },
          "Dilbechara":{
             "title":"Dilbechara",
@@ -50,6 +50,7 @@
               "title":"goodachari",
               "yearofrelease":"2018",
               "language":"telugu"
+              "category":"spythriller" 
         },
           "breakingbad":{
               "title":"Breakingbad",
