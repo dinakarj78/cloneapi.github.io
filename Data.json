@@ -11,7 +11,7 @@
     "gameofthrones": {
         "name": "GAMEOFTHRONES",
         "yearofrelease": "2011,",
-        "category": "fantasy,adventure",
+        "category": "fantasy,adventure ,",
         "language": "english"
     },
     "specialops": {
@@ -101,7 +101,7 @@
     "PK": {
         "title": "PK",
         "yearofrelease": "2015,",
-        "category": "sci-fi,drama,",
+        "category": "sci-fi,drama ,",
         "language": "hindi"
     },
     "idiots": {
@@ -119,13 +119,13 @@
     "bahubali": {
         "title": "bahubali1",
         "yearofrelease": "2016,",
-        "category": "pre-historical drama,",
+        "category": "history,drama ,",
         "language": "telugu"
     },
     "bahubali2": {
         "title": "bahubali2",
         "yearofrelease": "2018,",
-        "category": "pre-historical drama,",
+        "category": "history,drama ,",
         "language": "telugu"
     },
     "Edgeoftomorrow": {
@@ -167,7 +167,7 @@
     "Dark": {
         "title": "dark",
         "yearofrelease": "2012,",
-        "category": "sci-fi,drama,",
+        "category": "sci-fi,drama ,",
         "language": "spanish"
     },
     "Moneyheist": {
